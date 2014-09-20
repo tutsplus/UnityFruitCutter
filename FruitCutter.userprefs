@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LinesHandler.cs">
+    <Files>
+      <File FileName="Assets/FruitSpawner.cs" Line="22" Column="6" />
+      <File FileName="Assets/Apple.cs" Line="38" Column="6" />
+      <File FileName="Assets/LinesHandler.cs" Line="14" Column="4" />
+      <File FileName="Assets/Splash.cs" Line="27" Column="6" />
+      <File FileName="Assets/Timer.cs" Line="24" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
